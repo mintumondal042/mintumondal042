@@ -19,13 +19,9 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/mintu042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mintu Mondal" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/profile.php?id=61557960715159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mintu mondal" height="30" width="40" /></a>
-
-<a href="[https://instagram.com/deb_2000_jit](https://www.instagram.com/mintu02_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deb_2000_jit" height="30" width="40" /></a>
-
+<a href="(https://www.instagram.com/mintu02_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintu02_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mintumondal042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mintumondal042" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/mintu_042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mintu_042" height="30" width="40" /></a>
 </p>
 
