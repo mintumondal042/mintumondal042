@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://debjitportfolio.netlify.app/](https://debjitportfolio.netlify.app/)
 
-- 📫 How to reach me **beradebjit3@gmail.com**
+- 📫 How to reach me **mintumondal042@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OLp74y_qjyXCs_DAnfAhgTR5zjYHcoPB/view?usp=sharing](https://drive.google.com/file/d/1OLp74y_qjyXCs_DAnfAhgTR5zjYHcoPB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ghFTgcgyid2w-Gwi9CskWDEMuO4Imshd/view?usp=drive_link)
 
 - ⚡ Fun fact **Coding like poetry should be short and concise 😂**
 
