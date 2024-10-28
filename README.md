@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb200jit&label=Profile%20views&color=0e75b6&style=flat" alt="deb200jit" /> </p>
 
-- 🌱 I’m currently learning **B.Tech in Computer Science & Engineering**
+- 🌱 I’m currently learning **B.Tech in Computer Science & Business System**
 
 - 👨‍💻 All of my projects are available at [https://debjitportfolio.netlify.app/](https://debjitportfolio.netlify.app/)
 
